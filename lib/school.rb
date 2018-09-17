@@ -14,5 +14,5 @@ class School
     roster[student_grade]
   end
   
-    
+    school.sort 
 end
