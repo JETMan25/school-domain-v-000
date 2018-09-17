@@ -15,4 +15,5 @@ class School
   end
   
     school.sort 
+  end
 end
